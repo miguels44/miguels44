@@ -1,6 +1,6 @@
 ## Olá, me chamo Miguel 👋
 
-<div style="display: inline_block"><br>
+<div>
   <h1>Languages</h1>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" width="50"/>
