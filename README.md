@@ -28,6 +28,7 @@
 <div style="display: inline_block"><br>
   <h1>Others</h1>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" width="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" width="50"/>          
 </div>
 
 <div style="display: inline_block"><br>
