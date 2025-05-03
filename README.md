@@ -32,5 +32,5 @@
 
 <div style="display: inline_block"><br>
   <h1>Linkedin</h1>
-  <a href="www.linkedin.com/in/antônio-miguel-dos-santos-almeida-46a99934a" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" width="50"/>    
+  <a href=https://www.linkedin.com/in/ant%C3%B4nio-miguel-dos-santos-almeida-46a99934a target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" width="50"/>    
 </div>
