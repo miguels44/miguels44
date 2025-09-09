@@ -1,7 +1,7 @@
 ## Olá, me chamo Miguel 👋
 
 ## 📚 Estudando atualmente
-- No momento estou focado em aprimorar e me aprofundar mais meus conhecimentos em desenvolvimento backend com Java, Spring Boot e, estou aprendendo uma nova linguagm que é a Go.
+- No momento estou focado em aprimorar e me aprofundar mais meus conhecimentos em desenvolvimento backend com Java, Spring Boot e, atualmente, também estou aprendendo uma nova linguagm que é a Go.
 - DevOps
 - Machine Learning
 
