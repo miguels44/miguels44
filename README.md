@@ -1,5 +1,11 @@
 ## Olá, me chamo Miguel 👋
 
+## 👨🏻‍💻  Tecnologias em Estudo
+### No momento, estou focado em aprofundar no desenvolvimento Backend com Java, Spring Boot, JPA/Hibernate, Spring Cloud e Arquitetura: Microservices, REST APIs
+<!-- <div style="display: inline_block"><br>
+  <img align="center" alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" >
+</div> -->
+
 <div>
   <h1>Languages</h1>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" width="50"/>
