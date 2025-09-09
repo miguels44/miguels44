@@ -31,10 +31,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="40" width="50"/>
 </div>
 
-## 📚 Estudando atualmente
-- No momento estou focado em aprimorar e me aprofundar mais meus conhecimentos em desenvolvimento backend com Java, Spring Boot e, atualmente, também estou aprendendo uma nova linguagm que é a Go.
-- DevOps
-- Machine Learning
+<div>
+  <h1>📚 Estudando atualmente</h1>
+  <ul>
+    <li> 
+      No momento estou focado em aprimorar e me aprofundar mais meus conhecimentos em desenvolvimento backend com Java, Spring Boot e, atualmente, também estou aprendendo uma nova    linguagm que é a Go.
+    </li>
+    <li>
+      DevOps
+    </li>
+    <li>
+      Machine Learning
+    </li>
+  </ul>
+</div>
 
 <div>
   <h1>Linkedin</h1>
