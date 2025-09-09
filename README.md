@@ -1,10 +1,5 @@
 ## Olá, me chamo Miguel 👋
 
-## 📚 Estudando atualmente
-- No momento estou focado em aprimorar e me aprofundar mais meus conhecimentos em desenvolvimento backend com Java, Spring Boot e, atualmente, também estou aprendendo uma nova linguagm que é a Go.
-- DevOps
-- Machine Learning
-
 <div>
   <h1>Languages</h1>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" width="50"/>
@@ -16,7 +11,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" width="50"/>         
 </div>
 
-<div style="display: inline_block"><br>
+<div>
   <h1>Database</h1>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" width="50"/>
@@ -24,19 +19,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40" width="50"/>
 </div>
 
-<div style="display: inline_block"><br>
+<div>
   <h1>Cloud</h1>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" width="50"/> 
 </div>
 
-<div style="display: inline_block"><br>
+<div>
   <h1>Others</h1>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" width="50"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="40" width="50"/>
 </div>
 
-<div style="display: inline_block"><br>
+## 📚 Estudando atualmente
+- No momento estou focado em aprimorar e me aprofundar mais meus conhecimentos em desenvolvimento backend com Java, Spring Boot e, atualmente, também estou aprendendo uma nova linguagm que é a Go.
+- DevOps
+- Machine Learning
+
+<div>
   <h1>Linkedin</h1>
   <a href=https://www.linkedin.com/in/ant%C3%B4nio-miguel-dos-santos-almeida-46a99934a target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" width="50"/>    
 </div>
