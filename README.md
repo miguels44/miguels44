@@ -1,10 +1,9 @@
 ## Olá, me chamo Miguel 👋
 
-## 👨🏻‍💻  Tecnologias em Estudo
-### 
-<!-- <div style="display: inline_block"><br>
-  <img align="center" alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" >
-</div> -->
+## 📚 Estudando atualmente
+- No momento estou focado em aprimorar e me aprofundar mais meus conhecimentos em desenvolvimento backend com Java, Spring Boot e, estou aprendendo uma nova linguagm que é a Go.
+- DevOps
+- Machine Learning
 
 <div>
   <h1>Languages</h1>
